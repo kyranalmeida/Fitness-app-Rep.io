@@ -1,7 +1,5 @@
 # Rep.io 🏋️‍♂️👁️
 
-![Rep.io Cover Image](https://via.placeholder.com/1200x600/0a0a0a/c8ff00?text=Rep.io+-+Track+Every+Rep)
-
 **Rep.io** is a cross-platform, mobile-first fitness tracking application that leverages real-time, on-device AI pose detection to automatically count exercise repetitions and monitor user form. 
 
 By running Google's MediaPipe machine learning models directly in the browser via WebAssembly, Rep.io ensures zero latency and absolute privacy—your camera feed never leaves your device. 
